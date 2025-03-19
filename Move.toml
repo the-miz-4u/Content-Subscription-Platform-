@@ -1,0 +1,17 @@
+[package]
+name = "CSP"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = '0x7c4f080cb73c39fbf44c4e5bdaf958ad284966d0f1aa22d09bf9bf9c34e987a7'
+
+[dev-addresses]
+
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
