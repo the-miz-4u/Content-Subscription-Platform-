@@ -37,5 +37,4 @@ To empower creators by providing a direct and transparent way to monetize their 
 ## License
 This project is licensed under the MIT License. See the [SPDX-License-Identifier](https://spdx.org/licenses/MIT.html) for more details.
 ## Contract Address: "0xdda554471ed94d07b37f3faa872131dd293928db915b4d2ad4936adcfdff6452" 
-
 ![image](https://github.com/user-attachments/assets/d8ed3f6f-42c8-4889-ac87-954052c61695)
